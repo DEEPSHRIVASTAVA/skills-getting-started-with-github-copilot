@@ -1,4 +1,7 @@
 /* Mergington High School Activity Signup Styles */
+/* Main stylesheet for the extracurricular activities signup application */
+/* Includes: Layout, activity cards, participant lists, forms, and responsive design */
+
 * {
   box-sizing: border-box;
   margin: 0;
